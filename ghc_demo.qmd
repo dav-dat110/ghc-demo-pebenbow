@@ -1,0 +1,20 @@
+---
+title: "GHC demo assignment"
+author: "Pete Benbow"
+date: "October 3, 2025"
+format: html
+---
+
+```{r setup}
+#| include: false
+
+library(tidyverse)
+```
+
+# Assignment
+
+Hello, this is my assignment.
+
+# Conclusion
+
+Goodbye!
